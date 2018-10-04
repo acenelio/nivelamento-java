@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-//nao esqueca de mudar o nome da classe para Main
 public class uri1003 {
 
 	public static void main(String[] args) {
