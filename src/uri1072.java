@@ -11,7 +11,7 @@ public class uri1072 {
 		int in = 0;
 		int out = 0;
 		
-		for (int i=0; i<n; i++) {
+		for (int i=0; i<=n; i++) {
 			int x = sc.nextInt();
 			if (x >= 10 && x <= 20) {
 				in = in + 1;
