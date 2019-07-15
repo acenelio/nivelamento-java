@@ -8,7 +8,7 @@ public class uri1116 {
 
 		int n = sc.nextInt();
 		
-		for (int i=0; i<n; i++) {
+		for (int i=0; i<=n; i++) {
 			
 			int x = sc.nextInt();
 			int y = sc.nextInt();
