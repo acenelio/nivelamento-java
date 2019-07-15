@@ -10,7 +10,7 @@ public class uri1079 {
 
 		int n = sc.nextInt();
 		
-		for (int i=0; i<n; i++) {
+		for (int i=0; i<=n; i++) {
 			
 			double a = sc.nextDouble();
 			double b = sc.nextDouble();
