@@ -13,6 +13,9 @@ public class uri1046 {
 		if (horaInicial < horaFinal) {
 			duracao = horaFinal - horaInicial;
 		}
+		else if (horaInicial == horaFinal){
+			duracao = 24;
+		}
 		else {
 			duracao = 24 - horaInicial + horaFinal;
 		}
