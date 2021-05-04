@@ -5,6 +5,7 @@ public class uri1067 {
 	public static void main(String[] args) {
 		Scanner scanner;
 		int intervaloMin, intervaloMax, x;
+		boolean xRespeitaIntervalo;
 
 		intervaloMin = 1;
 		intervaloMax = 1000;
